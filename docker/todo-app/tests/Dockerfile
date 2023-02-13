@@ -2,10 +2,6 @@ FROM mjgargani/puppeteer:trybe1.0
 WORKDIR /docker
 
 ADD ./node_modules.tar.gz .
-
-COPY ./e2e/ .
-COPY ./jest.config.js .
-COPY ./package-lock.json .
-COPY ./package.json .
+COPY . .
 
 CMD ["npm", "test"]
