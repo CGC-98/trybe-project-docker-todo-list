@@ -1,4 +1,7 @@
-# :construction: README customizado em construção ! :construction:
+Projeto concluso, baseado no Lessons Learned pela Trybe;
+
+Teve como intuito a aplicação de fundamentos basais acerca do uso de Docker, passando pelos processos de criação, inicialização, listagem e remoção de containers, além da aquisição e manipulação de imagens e da composição de distintos serviços em um único processo.
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
